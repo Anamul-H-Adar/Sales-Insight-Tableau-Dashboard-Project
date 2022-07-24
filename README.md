@@ -9,4 +9,4 @@ It solved all the questions by the sales director:
  5) Top 5 hot products over the year.
  6) Revenue trends by year.
 
-Dashboar link :- https://public.tableau.com/app/profile/anamul.hoque.adar/viz/ABC_Hardware_Company_Sales_Insight/Sales_Insight
+Dashboard link :- https://public.tableau.com/app/profile/anamul.hoque.adar/viz/ABC_Hardware_Company_Sales_Insight/Sales_Insight
